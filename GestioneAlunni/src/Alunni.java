@@ -6,6 +6,8 @@ public class Alunni {
 	private String cognome;
 	private String classe;
 	
+	
+	
 	public Alunni() {
 		Scanner in=new Scanner(System.in);
 		
